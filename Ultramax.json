@@ -1,0 +1,706 @@
+[
+  {
+    "id": "collection-streaming-services",
+    "title": "Streaming Services",
+    "folders": [
+      {
+        "id": "folder-streaming-services-netflix",
+        "title": "Netflix",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/netflix.gif",
+        "coverImageUrl": "https://ultramax.vip/images/netflix.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-netflix-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "netflix_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-netflix-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "netflix_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-88328",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_88328",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-86751",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_86751",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-streaming-services-disney",
+        "title": "Disney+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/Disney.gif",
+        "coverImageUrl": "https://ultramax.vip/images/Disney.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-disney-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "disney_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-disney-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "disney_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-86759",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_86759",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-86758",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_86758",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-streaming-services-prime-video",
+        "title": "Prime Video",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/Prime.gif",
+        "coverImageUrl": "https://ultramax.vip/images/prime.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-amazon-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "amazon_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-amazon-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "amazon_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-86755",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_86755",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-86753",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_86753",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-streaming-services-hbo-max",
+        "title": "HBO / Max",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/HBO.gif",
+        "coverImageUrl": "https://ultramax.vip/images/HBO.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-hbo-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "hbo_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-hbo-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "hbo_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-89647",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_89647",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-89649",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_89649",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-streaming-services-apple-tv",
+        "title": "Apple TV+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/Apple.gif",
+        "coverImageUrl": "https://ultramax.vip/images/Apple.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-apple-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "apple_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-apple-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "apple_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-88317",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_88317",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-88319",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_88319",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-streaming-services-paramount",
+        "title": "Paramount+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/Paramount.gif",
+        "coverImageUrl": "https://ultramax.vip/images/paramount.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-paramount-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "paramount_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-paramount-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "paramount_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-86762",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_86762",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-86761",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_86761",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-streaming-services-hulu",
+        "title": "Hulu",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/Hulu.gif",
+        "coverImageUrl": "https://ultramax.vip/images/Hulu.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-hulu-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "hulu_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-hulu-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "hulu_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-88326",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_88326",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-88327",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_88327",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-streaming-services-peacock",
+        "title": "Peacock",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://ultramax.vip/images/Peacock.gif",
+        "coverImageUrl": "https://ultramax.vip/images/Peacock.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-peacock-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "peacock_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-peacock-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "peacock_series",
+            "type": "series",
+            "showInHome": false
+          }
+        ]
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-trending-popular",
+    "title": "Trending & Popular",
+    "folders": [
+      {
+        "id": "folder-trending-popular-core-trending",
+        "title": "Core Trending",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "",
+        "coverImageUrl": "https://ultramax.vip/images/Trending.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-trending-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trending_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trending-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trending_series",
+            "type": "series",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-trending-popular-popular-now",
+        "title": "Popular Now",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "",
+        "coverImageUrl": "https://ultramax.vip/images/Trending.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-popular-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "popular_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-popular-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "popular_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-top-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "top_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-top-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "top_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-2236",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_2236",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-1198",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_1198",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-69",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_69",
+            "type": "movie",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-trending-popular-in-theatres-airing",
+        "title": "In Theatres & Airing",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "",
+        "coverImageUrl": "https://ultramax.vip/images/Trending.jpg",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-now-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "now_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-airing-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "airing_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-ontheair-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "ontheair_series",
+            "type": "series",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-trending-popular-trakt-trending",
+        "title": "Trakt Trending",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "",
+        "coverImageUrl": "https://ultramax.vip/images/Trackt-trending-movie.png",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-mdb-87667",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_87667",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-mdb-88434",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "mdb_88434",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-trending-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_trending_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-trending-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_trending_series",
+            "type": "series",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-trending-popular-trakt-popular",
+        "title": "Trakt Popular",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "",
+        "coverImageUrl": "https://ultramax.vip/images/Trackt-popular-movie.png",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-trakt-popular-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_popular_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-popular-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_popular_series",
+            "type": "series",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-trending-popular-anticipated",
+        "title": "Anticipated",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "",
+        "coverImageUrl": "https://ultramax.vip/images/Trackt-coming-movie.png",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-trakt-anticipated-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_anticipated_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-anticipated-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_anticipated_series",
+            "type": "series",
+            "showInHome": false
+          }
+        ]
+      },
+      {
+        "id": "folder-trending-popular-my-trakt-picks",
+        "title": "My Trakt Picks",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "",
+        "coverImageUrl": "https://ultramax.vip/images/Trackt-fave-movie.png",
+        "heroBackdropUrl": "",
+        "sources": [],
+        "catalogSources": [
+          {
+            "id": "source-trakt-fav-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_fav_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-fav-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_fav_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-watchlist-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_watchlist_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-watchlist-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_watchlist_series",
+            "type": "series",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-collection-movies",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_collection_movies",
+            "type": "movie",
+            "showInHome": false
+          },
+          {
+            "id": "source-trakt-collection-series",
+            "addonId": "com.ultramax",
+            "addonName": "Ultra MAX",
+            "manifestUrl": "https://ultramax.vip/public-manifest.json",
+            "catalogId": "trakt_collection_series",
+            "type": "series",
+            "showInHome": false
+          }
+        ]
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  }
+]
